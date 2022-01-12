@@ -1,0 +1,15 @@
+id
+name
+project
+version
+environment
+steps_to_reproduce
+expected_result
+actual_result
+reproducibility
+severity
+priority
+status
+author
+assignee
+attachment
