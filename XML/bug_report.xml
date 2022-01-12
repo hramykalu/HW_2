@@ -1,0 +1,18 @@
+ <?xml version="1.0"?>
+<bug_report>
+<1>id</1>
+<2>name</2>
+<3>project</3>
+<4>version</4>
+<5>environment</5>
+<6>steps_to_reproduce</6>
+<7>expected_result</7>
+<8>actual_result</8>
+<9>reproducibility</9>
+<10>severity</10>
+<11>priority</11>
+<12>status</12>
+<13>author</13>
+<14>assignee</14>
+<15>attachment</15>
+</bug_report>
