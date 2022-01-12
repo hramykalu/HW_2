@@ -1,17 +1,23 @@
 {
-"1" : "id" ,
-"2" : "name" ,
-"3" : "project" ,
-"4" : "version" ,
-"5" : "environment" ,
-"6" : "steps_to_reproduce",
-"7" : "expected_result",
-"8" : "actual_result",
-"9" : "reproducibility",
-"10" : "severity",
-"11" : "priority",
-"12" : "status",
-"13" : "author",
-"14" : "assignee",
-"15" : "attachment"
+ "id" : 124
+ "name" : "Application crashes upon clicking the SAVE button while creating a new user" ,
+ "project" : "New Project",
+ "version" : 5.01,
+"environment" : ["Windows 10 Pro v.20H2" , "SQL Server 2019"],
+ "steps_to_reproduce": [
+  'Login into the Application' ,
+  'Navigate to the Users Menu to New User' ,
+  'Fill out all the user information fields' ,
+  'Click on the SAVE button' ,
+  'See an error page' 
+    ],
+ "expected_result" : "successful registration message",
+ "actual_result": "error page ",
+ "reproducibility": "always",
+ "severity" : "critical",
+ "priority": "high",
+ "status": "assigned",
+ "author": "hramukalu",
+"assignee": "ivanovmd",
+"attachment": "abc.log"
 }
