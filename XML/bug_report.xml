@@ -1,18 +1,25 @@
  <?xml version="1.0"?>
 <bug_report>
-<1>id</1>
-<2>name</2>
-<3>project</3>
-<4>version</4>
-<5>environment</5>
-<6>steps_to_reproduce</6>
-<7>expected_result</7>
-<8>actual_result</8>
-<9>reproducibility</9>
-<10>severity</10>
-<11>priority</11>
-<12>status</12>
-<13>author</13>
-<14>assignee</14>
-<15>attachment</15>
+<id>124</id>
+<name>Application crashes upon clicking the SAVE button while creating a new user</name>
+<project>New Project</project>
+<version>5.01</version>
+<environment>Windows 10 Pro v.20H2 , SQL Server 2019</environment>
+<steps_to_reproduce>
+ 1) Login into the Application ,
+ 2) Navigate to the Users Menu, to New User ,
+ 3) Fill out all the user information fields ,
+ 4) Click on the SAVE button 
+</steps_to_reproduce>
+<expected_result>successful registration message</expected_result>
+<actual_result>error page</actual_result>
+<reproducibility>always</reproducibility>
+<severity>critical</severity>
+<priority>high</priority>
+<status>assigned</status>
+<author>hramukalu</author>
+<assignee>ivanovmd</assignee>
+<attachment>abc.log</attachment>
 </bug_report>
+  
+ 
