@@ -1,15 +1,19 @@
-id
-name
-project
-version
-environment
-steps_to_reproduce
-expected_result
-actual_result
-reproducibility
-severity
-priority
-status
-author
-assignee
-attachment
+id - 124;
+name - Application crashes upon clicking the SAVE button while creating a new user;
+project - New Project;
+version - 5.01;
+environment - Windows 10 Pro v.20H2 , SQL Server 2019;
+steps_to_reproduce - 
+  1) Login into the Application ,
+  2) Navigate to the Users Menu to New User ,
+  3) Fill out all the user information fields ,
+  4) Click on the SAVE button ;
+expected_result - successful registration message;
+actual_result - error page;
+reproducibility - always;
+severity - critical;
+priority - high;
+status - assigned;
+author - hramukalu;
+assignee - ivanovmd;
+attachment - abc.log.
