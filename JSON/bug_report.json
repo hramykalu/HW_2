@@ -8,9 +8,8 @@
   'Login into the Application' ,
   'Navigate to the Users Menu to New User' ,
   'Fill out all the user information fields' ,
-  'Click on the SAVE button' ,
-  'See an error page' 
-    ],
+  'Click on the SAVE button' 
+      ],
  "expected_result" : "successful registration message",
  "actual_result": "error page ",
  "reproducibility": "always",
