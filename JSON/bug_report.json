@@ -5,10 +5,10 @@
  "version" : 5.01,
 "environment" : ["Windows 10 Pro v.20H2" , "SQL Server 2019"],
  "steps_to_reproduce": [
-  'Login into the Application' ,
-  'Navigate to the Users Menu to New User' ,
-  'Fill out all the user information fields' ,
-  'Click on the SAVE button' 
+  "Login into the Application" ,
+  "Navigate to the Users Menu to New User" ,
+  "Fill out all the user information fields" ,
+  "Click on the SAVE button" 
       ],
  "expected_result" : "successful registration message",
  "actual_result": "error page ",
